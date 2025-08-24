@@ -31,10 +31,10 @@ Goal: Land a **Product-Based Internship (6–12 months)** and a **Full-Time QA/S
 ---
 
 ### **Week 2 – Python Intermediate**
-- [ ] Dictionaries (key-value pairs, methods)  
-- [ ] File Handling (read, write, append)  
-- [ ] Exception Handling (try/except/finally, custom errors)  
-- [ ] Practice small projects (word counter, file reader)  
+- [x] Dictionaries (key-value pairs, methods)  
+- [x] File Handling (read, write, append)  
+- [x] Exception Handling (try/except/finally, custom errors)  
+- [x] Practice small projects (word counter, file reader)  
 
 👉 Folder: `week2/`
 
